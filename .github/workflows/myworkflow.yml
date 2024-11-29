@@ -1,4 +1,4 @@
-name: JPacman CI with Gradle
+name: JPacman CI
 
 on:
   push:
